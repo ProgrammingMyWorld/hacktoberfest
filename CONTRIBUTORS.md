@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Diego Reyes](https://github.com/ProgrammingMyWorld)
+- Place: Cucuta, Norte de Santander, Colombia
+- Bio: system engineering student
+- GitHub: [ProgrammingMyWorld](GitHub link)
